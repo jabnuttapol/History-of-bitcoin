@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    margin: 1rem;
+    padding: 0;
+    background-color: rgb(199, 199, 199);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    margin-top: 2rem;
+}
+
+#image{
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    justify-content: center; /* จัดกึ่งกลางแนวนอน */
+    align-items: center;     /* จัดกึ่งกลางแนวตั้ง */
+}
+
+#title{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+#history{
+    text-align: center;
+}
+
+#wikipedia{
+    text-align: center;
+}
+
+hr{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+#main{
+    padding: 2rem;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 1rem;
+
+}
+
+#wikipedia{
+    margin-top: 2.5rem;
+}
+
+li{
+    margin: 2rem;
+    font-size: 1.3rem;
+}
+
+.about{
+    margin-top: 4rem;
+}
+
+p{
+    font-size: 1.3rem;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+
+.info{
+    margin-left: 2.2rem;
+    margin-right: 2.2rem;
+}
+
+#img-caption{
+    margin-left: 2.2rem;
+    margin-right: 2.2rem;
+}
+
+ul{
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
