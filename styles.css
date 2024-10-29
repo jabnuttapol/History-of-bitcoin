@@ -90,3 +90,36 @@ ul{
     margin-right: 3rem;
     margin-left: 3rem;
 }
+
+@media (max-width: 720px){
+    h1{
+        font-size: 3rem;
+    }
+    #img-caption{
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+    #main{
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+    #title{
+        margin-left: 0rem;
+        margin-right: 0rem; 
+    }
+    #tribute-info{
+        margin-left: 0rem;
+        margin-right: 0rem; 
+    }
+    ul{
+        margin-left: 0rem;
+        margin-right: 0rem; 
+    }
+    .info{
+        margin-left: 0rem;
+        margin-right: 0rem; 
+    }
+    #wikipedia{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;  
+    }
